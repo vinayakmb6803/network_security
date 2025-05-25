@@ -18,3 +18,19 @@ A b c columns
 
 will be converted json {a:1, b:2,c:3}
 It should be always key value format  -->  records convert key vaule pair
+
+
+
+Data Ingestion:
+
+Read the data from mongo DB 
+What is Data ingestion Config?
+Data ingestion store
+Train and test split and Validation
+drop unwanted columns
+Directory
+ All these output is Data ingestion Artifact ( in the feature store - csv .Raw)
+ Then Ingested folder - Train and test
+
+
+
