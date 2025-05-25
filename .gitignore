@@ -1,0 +1,4 @@
+#when we are commiting to git, we don't want to commit the following files
+venv
+.env
+
