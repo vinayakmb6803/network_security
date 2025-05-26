@@ -34,3 +34,16 @@ Directory
 
 
 
+
+
+
+Data Validation
+
+Data Validation - Same Schema means no of column, features and distribution should also be same.
+Data drift - Checking the distribution of data means When we are training the data 's distribution and new data distribution shoud be same.
+Validate the no of columns Numerical column exist or not.
+
+
+
+
+
